@@ -47,3 +47,5 @@ kubectly apply -f db-service.yml
 After deployment, you can access the weather application through the Load Balancer URL:
 
 **Output** : The weather application interface should be visible, allowing you to input city names to fetch weather data.
+
+![Application](./backend/FinalApplicaiton.png)
